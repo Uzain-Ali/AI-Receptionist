@@ -1,0 +1,7 @@
+{
+    "Visitor_Name" : ["John Doe", "Emily Davis", "Michael Brown"],
+    "Whom_to_Meet" : ["Jane Smith", "Mark Johnson", "Sarah Lee"],
+    "Date" : ["2/4/2025", "2/4/2025", "2/5/2025"],
+    "Time" : ["10:00:00 AM", "2:00:00 PM", "11:30:00 AM"],
+    "Purpose_of_Meet" : ["The meeting is scheduled to discuss potential business collaborations and explore new opportunities for joint ventures. We aim to align our strategies for the upcoming year and determine areas where we can mutually benefit. Additionally, we will review any existing partnerships and assess their performance over the last quarter.", "Emily will provide a detailed update on the current status of the ongoing project, including key milestones and challenges encountered. The meeting will also focus on discussing potential adjustments to the timeline and budget. Both parties will assess the next steps required to complete the project successfully and ensure alignment with client expectations.", "The purpose of this meeting is to conduct an interview for the marketing position. We will evaluate Michael's qualifications, previous experience, and ability to contribute to the team. The interview will also include a discussion on his potential role within the company's marketing strategies, his fit with the team culture, and his long-term goals."]
+}
